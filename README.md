@@ -1,4 +1,3 @@
 # python
-pyhton
-DSA Assignment: https://colab.research.google.com/drive/1GcfKck-xhCXs3bxGT4_G5m5yhJH5IfEt?usp=drive_link
-https://colab.research.google.com/drive/1PVd3E884_AeUoMqSzb2MmDBWai45d_i6?usp=sharing
+python
+Colab NoteBook : https://drive.google.com/drive/folders/10blo8s4SXMKfGB4sVHEYZaU3zvo_DEjg?usp=drive_link
